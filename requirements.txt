@@ -2,5 +2,5 @@ Flask==2.3.3
 google-generativeai
 FPDF==1.7.2
 python-docx==0.8.11
-protobuf>=5.26.1
+protobuf
  
