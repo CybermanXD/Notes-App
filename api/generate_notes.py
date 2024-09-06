@@ -5,7 +5,7 @@ from docx import Document
 import re
 
 # Directly store your Google API key
-GOOGLE_API_KEY = 'AIzaSyAAOsCMT18wlVcgYTeRrnHPkTVLz6SrD3s'  # Replace with your actual API key
+GOOGLE_API_KEY = 'GOOGLE_API_KEY'  # Replace with your actual API key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # A wrapper to handle retries
