@@ -1,5 +1,5 @@
 [build]
-  command = "pip install -r requirements.txt && python -m main.py"
+  command = "pip install -r requirements.txt"
   functions = "api"
   publish = "static"
 
