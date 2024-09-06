@@ -1,6 +1,9 @@
 [build]
+  command = "pip install -r requirements.txt && python -m py_compile app.py"
   functions = "api"
   publish = "static"
 
 [functions]
   directory = "api"
+
+
